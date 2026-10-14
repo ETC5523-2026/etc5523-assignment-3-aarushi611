@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Aarushi",
+    "section": "",
+    "text": "Hi, I’m Aarushi Dandriyal, a Business Analytics student at Monash University. Through this website, I’m practising how to turn technical research into something a reader can follow without needing a specialist background. My current post explores vaccination and border quarantine: a topic that connects statistical modelling with everyday questions about travel and community safety. I use the blog to work through what the evidence tells us, what its limits are, and why the findings matter."
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html",
+    "href": "posts/delta-quarantine/index.html",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "",
+    "text": "Think about what an international trip can mean during university: starting a semester overseas, visiting family, or finally returning home. During the pandemic, those ordinary plans became tied to a much bigger question: how could borders reopen without bringing new outbreaks into the community?\nFor places trying to keep COVID-19 transmission very low, quarantine helped manage that risk. But a long stay in a managed facility also made travel harder and more costly. Vaccination raised the possibility of easing those restrictions. Then Delta, a more transmissible variant, complicated the picture.\nThat is the problem behind the study by Zachreson and colleagues (Zachreson et al. 2022). The study asks two questions:\n\nQuestion 1: Could vaccination keep a quarantine system’s risk at earlier levels, even against a more transmissible variant?\nQuestion 2: If an infection still escaped quarantine, what would stop it becoming an outbreak?\n\nEach question matches a line of defence: keeping infection inside quarantine, and limiting its spread if it escapes.\nThe study’s message is straightforward: vaccination at the border helps, but protection also needs to extend beyond it. To see why, we need to follow an infection through two lines of defence."
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html#a-ticket-home-a-vaccine-and-one-more-question",
+    "href": "posts/delta-quarantine/index.html#a-ticket-home-a-vaccine-and-one-more-question",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "",
+    "text": "Think about what an international trip can mean during university: starting a semester overseas, visiting family, or finally returning home. During the pandemic, those ordinary plans became tied to a much bigger question: how could borders reopen without bringing new outbreaks into the community?\nFor places trying to keep COVID-19 transmission very low, quarantine helped manage that risk. But a long stay in a managed facility also made travel harder and more costly. Vaccination raised the possibility of easing those restrictions. Then Delta, a more transmissible variant, complicated the picture.\nThat is the problem behind the study by Zachreson and colleagues (Zachreson et al. 2022). The study asks two questions:\n\nQuestion 1: Could vaccination keep a quarantine system’s risk at earlier levels, even against a more transmissible variant?\nQuestion 2: If an infection still escaped quarantine, what would stop it becoming an outbreak?\n\nEach question matches a line of defence: keeping infection inside quarantine, and limiting its spread if it escapes.\nThe study’s message is straightforward: vaccination at the border helps, but protection also needs to extend beyond it. To see why, we need to follow an infection through two lines of defence."
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html#following-the-infection-from-quarantine-to-the-community",
+    "href": "posts/delta-quarantine/index.html#following-the-infection-from-quarantine-to-the-community",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "Following the infection: from quarantine to the community",
+    "text": "Following the infection: from quarantine to the community\nWhere the evidence comes from: Zachreson and colleagues (2022) built two linked computer simulations using published research on COVID-19, testing and vaccine performance, and compared their baseline results with reported Australian quarantine breaches. This is a modelling study, not a trial or a survey.\nThe researchers used these simulations to explore situations that would be difficult to study through real outbreaks alone. Their first model represented a quarantine facility with 100 travellers and 20 workers. Travellers stayed for at least 14 days, with testing and isolation procedures intended to catch infections before release.\nEven with those measures, an infectious traveller or worker could have contact with the community. The researchers called this a breach. Their second model explored whether the resulting transmission would die out or grow into an outbreak.\nThe small number of observed breaches limited how precisely the model could match real events. Its main value is showing how risk changes when the researchers alter the conditions.\n\n\n\n\n\n\nNoteTwo percentages that are easy to mix up\n\n\n\nVaccination coverage is how many people are vaccinated. If 80 out of 100 people are vaccinated, coverage is 80%.\nVaccine efficacy against transmission is how strongly vaccination lowers the chance that an infection takes hold and spreads. In the study’s main scenarios it works by preventing infection.\nA high value for one does not guarantee a high value for the other. These results also concern transmission, not protection against severe illness."
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html#first-line-of-defence-keeping-infections-inside-quarantine-question-1",
+    "href": "posts/delta-quarantine/index.html#first-line-of-defence-keeping-infections-inside-quarantine-question-1",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "First line of defence: keeping infections inside quarantine (Question 1)",
+    "text": "First line of defence: keeping infections inside quarantine (Question 1)\nTo explore the first stage, the researchers needed a way to describe how readily the virus spreads. They used the basic reproductive number, written as \\(R_0\\). It is the average number of people one infected person would infect in a fully susceptible population without control measures. A higher value means greater transmission potential; it does not describe how many people would actually be infected inside a controlled quarantine facility.\nThe study compared vaccination scenarios with an earlier-virus baseline: \\(R_0=3\\) and no vaccination. In the vaccination scenarios, both travellers and workers were vaccinated. The question was how strong vaccine protection would need to be to keep the infection pressure reaching the community at that baseline level.\nFigure 1 shows three comparisons reported by the authors. At \\(R_0=6\\), vaccine efficacy needed to exceed about 60%. At \\(R_0=8\\), it needed to exceed about 70%. Even at \\(R_0=10\\), efficacy of roughly 70–80% was sufficient under the model assumptions, showing the requirement levelling off.\n\n\n\n\n\n\nFigure 1: Vaccine efficacy needed to maintain baseline infection pressure from quarantine breaches (\\(R_0=3\\), no vaccination), by transmissibility (\\(R_0\\)). Approximate thresholds from Zachreson et al. (2022), Figure 3 and accompanying text, under strong infection-control assumptions. These show efficacy, not community coverage or outbreak probability.\n\n\n\nThe practical meaning is that a more transmissible virus can use up some of the protection gained through vaccination. Simply knowing that everyone in quarantine is vaccinated does not tell us whether the system performs as well as it did before.\nThere is another condition behind these findings: the facility had strong infection-control measures. Travellers were placed in small groups, and contact between groups and workers was substantially reduced. The thresholds therefore describe vaccination working alongside quarantine controls.\nBack to Question 1: Vaccination can maintain earlier exposure levels if efficacy is high enough for the virus’s transmissibility and the quarantine controls hold.\nThose measures address infection escaping. But an escape is only the beginning of the second question: what happens when that infection reaches other people?"
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html#second-line-of-defence-limiting-spread-after-a-breach-question-2",
+    "href": "posts/delta-quarantine/index.html#second-line-of-defence-limiting-spread-after-a-breach-question-2",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "Second line of defence: limiting spread after a breach (Question 2)",
+    "text": "Second line of defence: limiting spread after a breach (Question 2)\nA breach does not automatically become an outbreak. Transmission may stop after a few infections, or it may keep spreading. To examine this stage, the researchers varied vaccination coverage in the wider community as well as vaccine efficacy.\nThey compared the time until the cumulative probability of at least one outbreak reached 50%. Here, an outbreak means five or more cases. A longer time means the model takes longer to reach that probability threshold; it is not a promise that an outbreak will occur on a particular day.\nWhen vaccine efficacy against transmission was below 60%, even high coverage produced only modest improvements in this timing measure. With efficacy of at least 80%, however, the measure rose rapidly once community coverage exceeded approximately 80%.\nUnder selected conditions combining high efficacy and high coverage, it rose from a baseline of roughly 15 days to the order of 1,000 days. That is a large difference between model scenarios, but it depends on fixed assumptions about arrival numbers and how many arrivals are infected. It cannot be treated as a forecast for a particular city.\nThis brings us back to the two percentages: coverage matters, but so does how well vaccination blocks transmission. Table 1 summarises what that means at each stage.\n\n\n\nTable 1: Selected findings from Zachreson et al. (2022), expressed as comparisons within the model. The numerical thresholds depend on its assumptions.\n\n\n\n\n\n\n\n\n\n\nStage\nWhat the model found\nWhat it means\n\n\n\n\nThe virus is more transmissible\nEfficacy had to exceed about 60% at \\(R_0=6\\) and about 70% at \\(R_0=8\\) to match baseline exposure.\nVaccination alone does not guarantee earlier risk levels.\n\n\nAn infection escapes; community protection is weak\nBelow 60% efficacy, even high coverage modestly improved outbreak timing.\nCoverage alone does not describe protection.\n\n\nAn infection escapes; protection is strong and widespread\nAt 80% efficacy or more, outbreak timing rose rapidly beyond about 80% coverage.\nStrong, widespread protection can substantially delay the model’s outbreak-probability threshold.\n\n\nQuarantine controls weaken\nBreach-related risk rose sharply with weaker controls.\nVaccination needs support from testing, isolation and reduced contact.\n\n\n\n\n\n\nBack to Question 2: Strong protection shared widely across the community can substantially delay the point at which outbreak probability reaches 50%. Below 60% efficacy, higher coverage produced only modest improvements in this measure."
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html#a-useful-model-with-limits",
+    "href": "posts/delta-quarantine/index.html#a-useful-model-with-limits",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "A useful model, with limits",
+    "text": "A useful model, with limits\nBefore taking these findings further, we need to look at what the simulations assumed. Community vaccination coverage stayed fixed within each scenario, immunity did not wane, and initial immunity from previous infection was negligible. In the main analysis, vaccination reduced the chance of becoming infected; people who became infected despite vaccination were assumed to be just as contagious as unvaccinated infected people.\nChanging assumptions about vaccine protection changed the numerical results in the authors’ sensitivity analyses. This is why the percentages above are conditional findings, rather than universal thresholds for reopening borders.\nThe historical setting matters too. The paper examines Delta-era quarantine conditions. It helps explain the relationship between border protection and community protection at that time; it does not directly describe current variants or vaccination programmes."
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html#what-should-we-take-away",
+    "href": "posts/delta-quarantine/index.html#what-should-we-take-away",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "What should we take away?",
+    "text": "What should we take away?\nWe began with two questions: could vaccination keep quarantine risk at earlier levels, and what happens when an infection still escapes? The first depends on protection relative to transmissibility: efficacy had to exceed about 60% at \\(R_0=6\\) and about 70% at \\(R_0=8\\), with roughly 70–80% sufficient at \\(R_0=10\\) (Figure 1). The second depends on community protection: below 60% efficacy, high coverage produced modest timing improvements; at efficacy of at least 80%, the improvement became pronounced beyond approximately 80% coverage. In selected high-efficacy, high-coverage scenarios, the time to a 50% cumulative outbreak probability rose from about 15 days to the order of 1,000 days (Table 1). These are conditional model comparisons, not forecasts (Zachreson et al. 2022).\nFor a student reading a headline about vaccination or border safety, the useful habit is to ask three things: how many people are protected, how strong is that protection against transmission, and what other measures are in place? Together, those questions tell us more than any single vaccination percentage."
+  },
+  {
+    "objectID": "posts/delta-quarantine/index.html#references",
+    "href": "posts/delta-quarantine/index.html#references",
+    "title": "Why vaccination at the border was only half the story",
+    "section": "References",
+    "text": "References\n\n\nZachreson, Cameron, Freya M. Shearer, David J. Price, et al. 2022. “COVID-19 in Low-Tolerance Border Quarantine Systems: Impact of the Delta Variant of SARS-CoV-2.” Science Advances 8 (14): eabm3624. https://doi.org/10.1126/sciadv.abm3624."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data in Context",
+    "section": "",
+    "text": "I’m Aarushi, a Business Analytics student at Monash University. This is where I explore research and communicate the stories behind its findings.\nMore about me"
+  },
+  {
+    "objectID": "index.html#research-explained-clearly.",
+    "href": "index.html#research-explained-clearly.",
+    "title": "Data in Context",
+    "section": "",
+    "text": "I’m Aarushi, a Business Analytics student at Monash University. This is where I explore research and communicate the stories behind its findings.\nMore about me"
+  },
+  {
+    "objectID": "index.html#latest-story",
+    "href": "index.html#latest-story",
+    "title": "Data in Context",
+    "section": "Latest story",
+    "text": "Latest story"
+  }
+]

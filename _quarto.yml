@@ -1,17 +1,26 @@
 project:
   type: website
-
+  output-dir: docs
+  resources:
+    - profile-cat.png
 website:
-  title: "blog-template"
+  title: "Data in Context"
   navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/etc5523-2022
+        href: https://github.com/aarushi611
+        aria-label: "Aarushi's GitHub profile"
+  page-footer: "Aarushi Dandriyal · Communicating with Data"
 format:
   html:
-    theme: cosmo
+    theme:
+      - cosmo
+      - theme.scss
     css: styles.css
-
-
-
+    toc: true
+    link-external-newwindow: true

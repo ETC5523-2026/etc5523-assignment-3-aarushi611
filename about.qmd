@@ -1,13 +1,17 @@
 ---
-title: "About"
-image: profile.jpg
+title: "About Aarushi"
+image: profile-cat.png
+image-alt: "A tabby cat wearing glasses beside a computer"
 about:
-  template: jolla
+  template: trestles
   links:
     - icon: github
-      text: Github
-      href: https://github.com/etc5523-2022
-
+      text: GitHub
+      href: https://github.com/aarushi611
+    - icon: journal-text
+      text: Read my blog
+      href: posts/delta-quarantine/index.qmd
+toc: false
 ---
 
-This is a blog template for the ETC5523 Communicating with Data assessment at Monash University.
+Hi, I'm **Aarushi Dandriyal**, a Business Analytics student at **Monash University**. Through this website, I'm practising how to turn technical research into something a reader can follow without needing a specialist background. My current post explores vaccination and border quarantine: a topic that connects statistical modelling with everyday questions about travel and community safety. I use the blog to work through what the evidence tells us, what its limits are, and why the findings matter.

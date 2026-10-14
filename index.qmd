@@ -1,14 +1,21 @@
 ---
-title: "ETC5523 Blog Assessment"
+title: "Data in Context"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
-page-layout: full
-title-block-banner: true
+toc: false
 ---
 
+::: {.home-hero}
+## Research, explained clearly.
 
+I'm Aarushi, a Business Analytics student at Monash University. This is where I explore research and communicate the stories behind its findings.
+
+[More about me](about.qmd){.btn .btn-outline-primary}
+:::
+
+## Latest story
